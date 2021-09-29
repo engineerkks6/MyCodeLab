@@ -1,12 +1,8 @@
 # Home Interface : 
+![erkripa](https://user-images.githubusercontent.com/69295859/135212748-f12a7386-0ed3-4a75-8f84-3debaddf6e50.png)![erkripa](https://user-images.githubusercontent.com/69295859/135212804-8d64fd98-3ae5-4fcd-83c4-b86e34047031.png)
 
-![mycodelab](https://user-images.githubusercontent.com/69295859/115771417-86c9e900-a3cb-11eb-9704-0fae3483ea0a.png)
 
-# After Clicking on List Icon : 
 
-![mycodelab](https://user-images.githubusercontent.com/69295859/115772142-66e6f500-a3cc-11eb-95dc-113408794f26.png)
-
- 
 # A new Flutter project.
 
 ## Getting Started
